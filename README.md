@@ -1,8 +1,6 @@
-# Hello World 👋
+# Hello World! 👋
 
-## My name is Mirza Mohammad Azwad
-
-###### I am currently a Software Engineering student at the Islamic University of Technology, Bangladesh.
+## My name is Mirza Mohammad Azwad. I am currently a Software Engineering student at the Islamic University of Technology, Bangladesh.
 
 <!--
 **mirzaazwad/mirzaazwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
