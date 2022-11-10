@@ -12,7 +12,7 @@
 <summary><b>🔎 Profile</b></summary>
 <p align="center"><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirzaazwad&theme=github_dark" alt="Mirza-Mohammad-Azwad" align = "center"/></p>
 
-<summary> 🔭 I’m currently working on </summary>
+### 🔭 I’m currently working on
 #### Languages
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 #### Frameworks
@@ -20,7 +20,7 @@
 #### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<summary> 🌱 I’m currently learning </summary>
+### 🌱 I’m currently learning 
 #### Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 #### Databases
@@ -28,7 +28,7 @@
 #### Frameworks
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<summary> :briefcase: Existing Skills</summary>
+### :briefcase: Existing Skills
 #### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 #### Databases
@@ -37,14 +37,14 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 
-<summary><b>⚡ Stats</b></summary>
+### ⚡ Stats
 <p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirzaazwad&theme=onedark&show_icons=true&locale=en&layout=compact" alt="mirzaazwad" /></p>
 <p>&nbsp;<img align="right" width="52%" src="https://github-readme-stats.vercel.app/api?username=mirzaazwad&theme=onedark&show_icons=true&locale=en" alt="mirzaazwad" /></p>
 
 
 
 
-<summary><b>🏆 Achievements</b></summary>
+### 🏆 Achievements
 <p align="center"> <a href="https://github.com/mirzaazwad"><img src="https://github-profile-trophy.vercel.app/?username=mirzaazwad&margin-w=5&theme=radical" alt="Mirza Mohammad Azwad" /></a> </p>
 
 
