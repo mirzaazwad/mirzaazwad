@@ -9,7 +9,7 @@
 
 ### 📫 How to reach me: <a href="https://www.linkedin.com/in/mirza-mohammad-azwad-b5239b1a4/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:mirzaazwad@iut-dhaka.edu?subject=Hello%20Sananda"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
-<summary><b>🔎 Profile</b></summary>
+### 🔎 Profile
 <p align="center"><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirzaazwad&theme=github_dark" alt="Mirza-Mohammad-Azwad" align = "center"/></p>
 
 ### 🔭 I’m currently working on
@@ -40,9 +40,7 @@
 ### ⚡ Stats
 <p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirzaazwad&theme=onedark&show_icons=true&locale=en&layout=compact" alt="mirzaazwad" /></p>
 <p>&nbsp;<img align="right" width="52%" src="https://github-readme-stats.vercel.app/api?username=mirzaazwad&theme=onedark&show_icons=true&locale=en" alt="mirzaazwad" /></p>
-
-
-
+<br><br>
 
 ### 🏆 Achievements
 <p align="center"> <a href="https://github.com/mirzaazwad"><img src="https://github-profile-trophy.vercel.app/?username=mirzaazwad&margin-w=5&theme=radical" alt="Mirza Mohammad Azwad" /></a> </p>
