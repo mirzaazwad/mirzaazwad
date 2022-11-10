@@ -2,7 +2,7 @@
 
 ## I am Azwad, Mirza Mohammad Azwad. 
 
-##### I am currently a sophomore student pursuing a BSc in Software Engineering at the Islamic University of Technology(IUT), Bangladesh. I have an inquisitive mind and am always willing to pickup new skills
+### I am currently a sophomore student pursuing a BSc in Software Engineering at the Islamic University of Technology(IUT), Bangladesh. I have an inquisitive mind and am always willing to pickup new skills
 
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/mirzaazwad" />
