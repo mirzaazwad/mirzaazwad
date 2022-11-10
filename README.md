@@ -3,6 +3,9 @@
 ## I am Azwad, Mirza Mohammad Azwad. 
 
 #### I am currently a sophomore student pursuing a BSc in Software Engineering at the Islamic University of Technology(IUT), Bangladesh.
+<p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/mirzaazwad" />
+</p>
 
 ### 📫 How to reach me: **mirzaazwad@iut-dhaka.edu**
 
@@ -29,3 +32,5 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 #### Frameworks
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+
