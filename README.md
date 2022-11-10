@@ -42,7 +42,7 @@
   <tbody>
   <tr>
       <td><a href="https://github.com/mirzaazwad/SWE4304_Ed-Ez-SPL1" rel="nofollow"><strong>Ed-Ez</strong></a></td>
-      <td>Online education platform which is basically a clone of google classroom but with no frameworks for Software Project Lab-1(SWE 4304) of BSc in SWE, IUT</td>
+      <td>Online education platform which is basically a clone of google classroom but with no frameworks for <br>Software Project Lab-1(SWE 4304) of BSc in SWE, IUT</td>
     </tr>
     </tbody>
     </table>
