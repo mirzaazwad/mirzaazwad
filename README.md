@@ -31,9 +31,23 @@
 #### 🏆 Achievements
 <p align="center"> <a href="https://github.com/mirzaazwad"><img src="https://github-profile-trophy.vercel.app/?username=mirzaazwad&margin-w=5&theme=radical" alt="Mirza Mohammad Azwad" /></a> </p>
 
+### 🔭 My Projects
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>Project Title</b></td>
+      <td><b>Description</b></td>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td><a href="https://github.com/mirzaazwad/SWE4304_Ed-Ez-SPL1" rel="nofollow"><strong>Ed-Ez</strong></a></td>
+      <td>Online education platform which is basically a clone of google classroom but with no frameworks for Software Project Lab-1(SWE 4304) of BSc in SWE, IUT</td>
+    </tr>
+    </tbody>
+    </table>
+
 #### ⚡ Stats
 <p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirzaazwad&theme=onedark&show_icons=true&locale=en&layout=compact" alt="mirzaazwad" /></p>
 <p>&nbsp;<img align="right" width="52%" src="https://github-readme-stats.vercel.app/api?username=mirzaazwad&theme=onedark&show_icons=true&locale=en" alt="mirzaazwad" /></p>
 <br><br>
-
-
