@@ -7,7 +7,7 @@
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/mirzaazwad" />
 </p>
 
-### 📫 How to reach me: <a href="https://www.linkedin.com/in/mirza-mohammad-azwad-b5239b1a4/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:mirzaazwad@iut-dhaka.edu?subject=Hello%20Sananda"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+### 📫 How to reach me: <a href="https://www.linkedin.com/in/mirza-mohammad-azwad-b5239b1a4/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:mirzaazwad@iut-dhaka.edu?subject=Hello%20Azwad"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;<a href="https://www.facebook.com/mirza.mohammadazwad.5/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>&nbsp;
 
 ### 🔎 Profile
 <p align="center"><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirzaazwad&theme=github_dark" alt="Mirza-Mohammad-Azwad" align = "center"/></p>
@@ -37,10 +37,10 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ### 📊 Contribution Graph
-<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mirzaazwad&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="Mirza Mohammad Azwad Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mirzaazwad&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 
 ### 🔥 Streaks
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzaazwad&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Sabbir-Rahman" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzaazwad&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Mirza Mohammad Azwad" /></p>
 
 ### 🏆 Achievements
 <p align="center"> <a href="https://github.com/mirzaazwad"><img src="https://github-profile-trophy.vercel.app/?username=mirzaazwad&margin-w=5&theme=radical" alt="Mirza Mohammad Azwad" /></a> </p>
