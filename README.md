@@ -7,7 +7,8 @@
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/mirzaazwad" />
 </p>
 
-### 📫 How to reach me: **mirzaazwad@iut-dhaka.edu**
+### 📫 How to reach me: <a href="https://www.linkedin.com/in/mirza-mohammad-azwad-b5239b1a4/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:mirzaazwad@iut-dhaka.edu?subject=Hello%20Sananda"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
 ### 🔭 I’m currently working on ...
 #### Languages
