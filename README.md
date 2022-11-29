@@ -46,8 +46,3 @@
     </tr>
     </tbody>
     </table>
-
-#### ⚡ Stats
-<p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirzaazwad&theme=onedark&show_icons=true&locale=en&layout=compact" alt="mirzaazwad" /></p>
-<p>&nbsp;<img align="right" width="52%" src="https://github-readme-stats.vercel.app/api?username=mirzaazwad&theme=onedark&show_icons=true&locale=en" alt="mirzaazwad" /></p>
-<br><br>
