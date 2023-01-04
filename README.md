@@ -2,7 +2,7 @@
 
 ### I am currently a sophomore student pursuing a BSc in Software Engineering at the Islamic University of Technology(IUT), Bangladesh. I have an inquisitive mind and am always willing to pickup new skills
 
-> Quote: " I do not wish to be just a name on a gravestone but something much much bigger"
+> Quote: " I do not wish to be just a name on a gravestone, rather I want to be remembered for my contributions"
 
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/mirzaazwad" />
