@@ -1,6 +1,6 @@
 # Hello World! 👋 I am Azwad, Mirza Mohammad Azwad. 
 
-### I am currently a sophomore student pursuing a BSc in Software Engineering at the Islamic University of Technology(IUT), Bangladesh. I have an inquisitive mind and am always willing to pickup new skills
+### I am currently a junior year student pursuing a BSc in Software Engineering at the Islamic University of Technology(IUT), Bangladesh. I have an inquisitive mind and am always willing to pickup new skills
 
 > Quote: " I do not wish to be just a name on a gravestone, rather I want to be remembered for my contributions"
 
