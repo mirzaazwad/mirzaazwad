@@ -34,8 +34,8 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/mirzaazwad/MISTHackathon" rel="nofollow"><strong>Ed-Ez</strong></a></td>
-      <td>My first ever hackathon, this project was built using html, css and vanilla JS only</td>
+      <td><a href="https://github.com/mirzaazwad/MISTHackathon" rel="nofollow"><strong>Bit-MIST Hackathon</strong></a></td>
+      <td>My first ever hackathon, this project was built using html, css and vanilla JS only. In this event my teammates and I achieved the 2nd Position</td>
     </tr>
      <tr>
       <td><a href="https://github.com/mirzaazwad/SWE4304_Ed-Ez-SPL1" rel="nofollow"><strong>Ed-Ez</strong></a></td>
