@@ -21,8 +21,6 @@
 #### 🔥 Streaks
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzaazwad&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Mirza Mohammad Azwad" /></p>
 
-#### 🏆 Achievements
-<p align="center"> <a href="https://github.com/mirzaazwad"><img src="https://github-profile-trophy.vercel.app/?username=mirzaazwad&margin-w=5&theme=radical" alt="Mirza Mohammad Azwad" /></a> </p>
 
 ### 🔭 My Projects
 <table>
@@ -36,10 +34,6 @@
     <tr>
       <td><a href="https://github.com/mirzaazwad/MISTHackathon" rel="nofollow"><strong>Bit-MIST Hackathon</strong></a></td>
       <td>My first ever hackathon, this project was built using html, css and vanilla JS only. In this event my teammates and I achieved the 2nd Position</td>
-    </tr>
-     <tr>
-      <td><a href="https://github.com/mirzaazwad/SWE4304_Ed-Ez-SPL1" rel="nofollow"><strong>Ed-Ez</strong></a></td>
-      <td>Online education platform which is basically a clone of google classroom but with no frameworks for <br>Software Project Lab-1(SWE 4304) of BSc in SWE, IUT</td>
     </tr>
   <tr>
       <td><a href="https://github.com/mirzaazwad/SWE4304_Ed-Ez-SPL1" rel="nofollow"><strong>Ed-Ez</strong></a></td>
@@ -58,8 +52,8 @@
       <td>My first game development project which we used to participate in the Brackleys GameJam 2023.2 with the theme "Diving Deeper"</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/mirzaazwad/medi-connect" rel="nofollow"><strong>MediConnect</strong></a></td>
-      <td>A Java SpringBoot based project for Therap JavaFest</td>
+      <td><a href="https://github.com/mirzaazwad/" rel="nofollow"><strong>Laundry Management System</strong></a></td>
+      <td>Laundry Management System created for my CSE 4410 DBMS-II course and SWE 4538 Server Programming course</td>
     </tr>
     </tbody>
     </table>
