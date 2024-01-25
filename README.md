@@ -37,7 +37,7 @@
     </tr>
   <tr>
       <td><a href="https://github.com/mirzaazwad/SWE4304_Ed-Ez-SPL1" rel="nofollow"><strong>Ed-Ez</strong></a></td>
-      <td>Online education platform which is basically a clone of google classroom but with no frameworks for <br>Software Project Lab-1(SWE 4304) of BSc in SWE, IUT</td>
+      <td>Online education platform which is basically a clone of google classroom but with no frameworks using HTML, CSS, JS, PHP and mySQL for <br>Software Project Lab-1(SWE 4304) of BSc in SWE, IUT</td>
     </tr>
       <tr>
       <td><a href="https://github.com/mirzaazwad/SWE_4404_MedGuard" rel="nofollow"><strong>MedGuard</strong></a></td>
@@ -45,14 +45,18 @@
     </tr>
     <tr>
       <td><a href="https://github.com/mirzaazwad/vaccine-app-server" rel="nofollow"><strong>Vaccine App</strong></a></td>
-      <td>A project we had to make for the BUET CSE Fest Hackathon which helped us standout and achieve the third position in the Dev Ops segment</td>
+      <td>A project we had to make for the BUET CSE Fest Hackathon 2023 which helped us standout and achieve the third position in the Dev Ops segment, it was build in the MERN stack, with the frontend deployed to netlify and the backend to gcloud using cloud run, with github workflows to essentially simulate a CI/CD pipeline and terraform for automated provision of resources</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mirzaazwad/TaxWizard" rel="nofollow"><strong>TaxWizard</strong></a></td>
+      <td>A project we had to make for the DU ITverse Hackathon 2023 which helped us standout and achieve the third position in the Dev Ops segment, it was an express app and deployed to gcloud using cloud run, with github workflows to essentially simulate a CI/CD pipeline and terraform for automated provision of resources run</td>
     </tr>
     <tr>
       <td><a href="https://github.com/mirzaazwad/Diving_Deeper" rel="nofollow"><strong>Diving Deeper</strong></a></td>
       <td>My first game development project which we used to participate in the Brackleys GameJam 2023.2 with the theme "Diving Deeper"</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/mirzaazwad/" rel="nofollow"><strong>Laundry Management System</strong></a></td>
+      <td><a href="https://github.com/mirzaazwad/SWE_4538_Laundry_Management_System" rel="nofollow"><strong>Laundry Management System</strong></a></td>
       <td>Laundry Management System created for my CSE 4410 DBMS-II course and SWE 4538 Server Programming course</td>
     </tr>
     </tbody>
