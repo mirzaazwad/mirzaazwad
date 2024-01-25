@@ -45,7 +45,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/mirzaazwad/vaccine-app-server" rel="nofollow"><strong>Vaccine App</strong></a></td>
-      <td>A project we had to make for the BUET CSE Fest Hackathon 2023 which helped us standout and achieve the third position in the Dev Ops segment, it was build in the MERN stack, with the frontend deployed to netlify and the backend to gcloud using cloud run, with github workflows to essentially simulate a CI/CD pipeline and terraform for automated provision of resources</td>
+      <td>A project we had to make for the BUET CSE Fest Hackathon 2023 which helped us standout and achieve the third position in the Dev Ops segment, it was build in the MERN stack, with the frontend deployed to netlify and the backend to gcloud using cloud run, with github workflows to essentially simulate a CI/CD pipeline and terraform for automated provision of resources. My teammates and I received 3rd position with this project</td>
     </tr>
     <tr>
       <td><a href="https://github.com/mirzaazwad/TaxWizard" rel="nofollow"><strong>TaxWizard</strong></a></td>
@@ -57,7 +57,11 @@
     </tr>
     <tr>
       <td><a href="https://github.com/mirzaazwad/SWE_4538_Laundry_Management_System" rel="nofollow"><strong>Laundry Management System</strong></a></td>
-      <td>Laundry Management System created for my CSE 4410 DBMS-II course and SWE 4538 Server Programming course</td>
+      <td>Laundry Management System created for my CSE 4410 DBMS-II course and SWE 4538 Server Programming course, this makes use of PostgreSQL using Prisma ORM, React Typescript, Express and Node</td>
+    </tr>
+     <tr>
+      <td><a href="https://github.com/mirzaazwad/SWE_4506_Design_Project_I_DataAnalytica.io" rel="nofollow"><strong>DataAnalytica.io</strong></a></td>
+      <td>This is an application built for my Design Project course which involves machine learning simulations, it was built using react typescript and python-django with mongoDB as the database, the front-end was deployed using netlify with the backend using cloudrun</td>
     </tr>
     </tbody>
     </table>
