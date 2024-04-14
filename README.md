@@ -15,9 +15,9 @@
 #### 🔥 Streaks
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzaazwad&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Mirza Mohammad Azwad" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mirzaazwad)](https://github.com/mirzaazwad/github-profile-trophy)
-[![Mirza Azwad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirzaazwad)](https://github.com/mirzaazwad/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaazwad)](https://github.com/mirzaazwad/github-readme-stats)
+![trophy](https://github-profile-trophy.vercel.app/?username=mirzaazwad&theme=tokyonight)
+![Mirza Azwad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirzaazwad&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaazwad&theme=tokyonight)
 
 ### 🔭 My Projects
 <table>
@@ -63,5 +63,3 @@
     </tbody>
     </table>
  For academic content and research works, I recommend visiting my other github profile that is <a href="https://github.com/azwadmirza"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" /></a>
-
- [![Mirza Azwad's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mirzaazwad)](https://github.com/mirzaazwad/github-readme-stats)
