@@ -51,7 +51,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/mirzaazwad/SWE_4538_Laundry_Management_System" rel="nofollow"><strong>Laundry Management System</strong></a></td>
-      <td>Laundry Management System created for my CSE 4410 DBMS-II course and SWE 4538 Server Programming course, this makes use of PostgreSQL using Prisma ORM, React Typescript, Express and Node</td>
+      <td>Laundry Management System created for my SWE 4538 Server Programming course, this makes use of mongoDB, React with Vite using Typescript, Express and Node</td>
     </tr>
      <tr>
       <td><a href="https://github.com/mirzaazwad/SWE_4506_Design_Project_I_DataAnalytica.io" rel="nofollow"><strong>DataAnalytica.io</strong></a></td>
