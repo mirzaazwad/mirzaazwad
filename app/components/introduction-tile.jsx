@@ -11,7 +11,7 @@ const Introduction = () => {
             <Card.Body className="flex">
                 <div className="w-full flex">
                     <div className="w-1/5 me-5">
-                        <Image src={'/propic.png'} className="rounded-full" width={'400'} height={'400'} alt="Profile Picture" />
+                        <Image unoptimized src={'/propic.png'} className="rounded-full" width={'400'} height={'400'} alt="Profile Picture" />
                     </div>
                     <div className="w-4/5 mt-4">
                         <p className="text-2xl">I am an aspiring software engineer who is currently enrolled as a student of Islamic University of Technology, pursuing a BSc in Software Engineering degree. I like to work mainly with DevOps and Machine Learning but am also open to front-end and back-end development. I am constantly learning and hoping to hone my skills for the better. When I am not coding you might find me watching anime, reading manga or at a coffee place enjoying its ambience.</p>
