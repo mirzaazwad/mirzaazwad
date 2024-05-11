@@ -11,7 +11,7 @@ runs:
 
     steps:
     - uses: actions/checkout@v4
-    - name: Use Node.js ${{ matrix.node-version }}
+    - name: Use Node.js 20
       uses: actions/setup-node@v3
       with:
         node-version: 20
@@ -24,6 +24,6 @@ runs:
         key: node-modules-${{ hashFiles('package-lock.json') }}
     
     - name: npm install, build
-    run: |
-        npm ci
+      run: |
+          npm ci
     
