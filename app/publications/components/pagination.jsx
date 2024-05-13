@@ -13,7 +13,7 @@ const Pagination = ({ totalPages, currentPage, onPageChange }) => {
     }, [totalPages]);
 
     return (
-        <div className='w-full mr-96 pr-72 py-12'>
+        <div className='w-full'>
             <ul className="flex items-center justify-center">
                 <li>
                     <button

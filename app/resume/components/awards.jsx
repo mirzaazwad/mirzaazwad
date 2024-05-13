@@ -6,12 +6,12 @@ const Awards = () => {
         <Card.Header className="text-4xl w-full mb-6 text-center">Awards and Achievements</Card.Header>
         <Card.Body>
             <div className="awards">
-                <div className="flex mb-2 px-4 py-2 rounded-lg bg-black">
-                    <div className="w-1/5 font-bold">2024</div>
+                <div className="font-bold">2024</div>
+                <div className="mb-2 px-4 py-2 rounded-lg bg-black">
                     <div>Participated in CodeCrafters International Ltd. Devsprint 2024: 1st {"Runner\'s"} Up, Team NaN</div>
                 </div>
-                <div className="flex mb-2 px-4 py-2 rounded-lg bg-black">
-                    <div className="w-1/5 font-bold">2023</div>
+                <div className="font-bold">2023</div>
+                <div className="mb-2 px-4 py-2 rounded-lg bg-black">
                     <div>
                         <ul>
                             <li>2nd Runners Up BUET CSE FEST Hackathon Dev Ops Segment, Team IUT_NaN</li>
@@ -22,14 +22,14 @@ const Awards = () => {
                         </ul>
                     </div>
                 </div>
-                <div className="flex mb-2 px-4 py-2 rounded-lg bg-black">
-                    <div className="w-1/5 font-bold">2022</div>
+                <div className="font-bold">2022</div>
+                <div className="mb-2 px-4 py-2 rounded-lg bg-black">
                     <div>
                         13th Position in International Rover Design Challenge as a part of IUT Mars Rover, Anirban
                     </div>
                 </div>
-                <div className="flex mb-2 px-4 py-2 rounded-lg bg-black">
-                    <div className="w-1/5 font-bold">2021</div>
+                <div className="font-bold">2021</div>
+                <div className="mb-2 px-4 py-2 rounded-lg bg-black">
                     <div>
                         <ul>
                             <li>1st Runners Up MIST Inter-University ICT Innovation fest Hackathon Prompt: For Education, Team: Ligno</li>
@@ -38,16 +38,16 @@ const Awards = () => {
                         </ul>
                     </div>
                 </div>
-                <div className="flex mb-2 px-4 py-2 rounded-lg bg-black">
-                    <div className="w-1/5 font-bold">2018</div>
+                <div className="font-bold">2018</div>
+                <div className="mb-2 px-4 py-2 rounded-lg bg-black">
                     <div>
                         <ul>
                             <li>Participated in Microsoft Young Bangla Internship Program {"\"Shohayotha\""}, rose to the top 15 teams, offering telemedicine solutions for improved mental health support</li>
                         </ul>
                     </div>
                 </div>
-                <div className="flex mb-2 px-4 py-2 rounded-lg bg-black">
-                    <div className="w-1/5 font-bold">2016</div>
+                <div className="font-bold">2016</div>
+                <div className="mb-2 px-4 py-2 rounded-lg bg-black">
                     <div> 1st Runners Up Web Design, Notre Dame Annual Science Festival 2016 and 26th GKC</div>
                 </div>
             </div>
