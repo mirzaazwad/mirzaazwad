@@ -65,3 +65,4 @@
     </tbody>
     </table>
  For academic content and research works, I recommend visiting my other github profile that is <a href="https://github.com/azwadmirza"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" /></a>
+ For professional content, I recommend visiting my other github profile that is <a href="https://github.com/mirzaazwad-im"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
