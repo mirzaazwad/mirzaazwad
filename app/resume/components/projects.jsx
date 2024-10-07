@@ -11,7 +11,7 @@ const Projects = () => {
         <div className="projects">
 
             <div className="subrubric">
-                <Link href="https://github.com/mirzaazwad"><h1 className="text-xl mb-2 hover:text-black hover:bg-white px-4 py-2 rounded-lg">Projects <IonIcon icon={logoGithub}></IonIcon></h1></Link>
+                <Link href="https://github.com/mirzaazwad"><h1 className="text-xl mb-2 hover:text-black hover:bg-white px-4 py-2 rounded-lg">View In GitHub <IonIcon icon={logoGithub}></IonIcon></h1></Link>
                 <div className="flex flex-col mb-2 px-4 py-2 rounded-lg bg-black">
                     <div className="w-1/5 font-bold">CSE 4554-Machine Learning</div>
                     <div>Titled: <strong>Automated Python Code Bug Detection using Software Metrics</strong>, employing software metrics and ML to predict bugs in Python code.</div>
