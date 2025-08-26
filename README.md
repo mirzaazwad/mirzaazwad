@@ -80,15 +80,15 @@ Passionate about **scalable systems**, **AI-driven solutions**, and **DevOps aut
 
 ### 📊 GitHub Insights  
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirzaazwad&theme=github_dark" height="200em" alt="Profile Summary" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mirzaazwad&theme=dark&show_icons=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaazwad&theme=dark&layout=compact" alt="Top Languages" />
 </p>
 
