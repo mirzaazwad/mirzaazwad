@@ -1,14 +1,24 @@
-# 👋 Hey there, I'm Mirza Mohammad Azwad  
+<div align="center">
 
-🎯 **Software Engineer | Full-Stack Developer | Cloud & DevOps Enthusiast | AI & Computer Vision Researcher**  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Mirza%20Mohammad%20Azwad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="banner" />
 
-I’m a **Software Engineer Trainee at Intelligent Machines Ltd.** and a **Software Engineering undergrad at the Islamic University of Technology (IUT)**.  
-Passionate about **scalable systems**, **AI-driven solutions**, and **DevOps automation**, I thrive on solving complex problems and building impactful products for real-world use.  
-My current focus areas include **Machine Learning, Computer Vision, and Distributed Systems**.  
+💻 **Software Engineer&nbsp;|&nbsp;Full-Stack Developer&nbsp;|&nbsp;Cloud & DevOps Enthusiast&nbsp;|&nbsp;AI & Computer Vision Researcher**  
+
+---
+
+✨ Passionate about building **scalable systems**, designing **AI-driven solutions**,  
+and pushing the boundaries of **software engineering**.  
+Currently working as a **Software Engineer Trainee at Intelligent Machines Ltd.**  
+and pursuing a **B.Sc. in Software Engineering** at the **Islamic University of Technology (IUT)**.  
+
+🚀 I thrive on turning **complex problems into elegant, production-ready solutions** —  
+from **backend engineering** and **cloud-native infrastructure**  
+to **computer vision research** and **intelligent automation**.  
 
 ---
 
 ### 🌐 Connect with Me  
+
 <a href="https://www.linkedin.com/in/mirza-mohammad-azwad-b5239b1a4/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -20,6 +30,9 @@ My current focus areas include **Machine Learning, Computer Vision, and Distribu
 </a>
 
 ---
+
+</div>
+
 
 ### 💡 About Me
 - 🔭 Currently building **cloud-native applications** and **AI-powered analytics** at Intelligent Machines Ltd.  
