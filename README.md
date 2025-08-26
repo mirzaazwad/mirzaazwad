@@ -95,5 +95,6 @@ Passionate about **scalable systems**, **AI-driven solutions**, and **DevOps aut
 
 ---
 
-> _“Simplicity is the soul of efficiency.” – Austin Freeman_
+> _“Simplicity is the soul of efficiency.” – Austin Freeman
+
 > _✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
