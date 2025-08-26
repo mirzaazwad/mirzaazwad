@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Mirza%20Mohammad%20Azwad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="banner" />
 
-💻 **Software Engineer&nbsp;|&nbsp;Full-Stack Developer&nbsp;|&nbsp;Cloud & DevOps Enthusiast&nbsp;|&nbsp;AI & Computer Vision Researcher**  
+💻 **Software Engineer&nbsp;|&nbsp;Full-Stack Developer&nbsp;|&nbsp;Cloud & DevOps Enthusiast&nbsp;|&nbsp;Interested in Research Centered Around AI & Computer Vision**  
 
 ---
 
