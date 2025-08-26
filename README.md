@@ -1,9 +1,10 @@
 # 👋 Hey there, I'm Mirza Mohammad Azwad  
 
-🎯 **Software Engineer | Full-Stack Developer | Cloud & DevOps Enthusiast**  
+🎯 **Software Engineer | Full-Stack Developer | Cloud & DevOps Enthusiast | AI & Computer Vision Researcher**  
 
 I’m a **Software Engineer Trainee at Intelligent Machines Ltd.** and a **Software Engineering undergrad at the Islamic University of Technology (IUT)**.  
 Passionate about **scalable systems**, **AI-driven solutions**, and **DevOps automation**, I thrive on solving complex problems and building impactful products for real-world use.  
+My current focus areas include **Machine Learning, Computer Vision, and Distributed Systems**.  
 
 ---
 
@@ -23,9 +24,11 @@ Passionate about **scalable systems**, **AI-driven solutions**, and **DevOps aut
 ### 💡 About Me
 - 🔭 Currently building **cloud-native applications** and **AI-powered analytics** at Intelligent Machines Ltd.  
 - 🎓 Pursuing a **B.Sc. in Software Engineering** at IUT.  
+- 🧠 Strong interest in **Machine Learning**, **Computer Vision**, and **AI-driven automation**.  
+- 📱 Experienced in **Mobile Application Development** with Flutter and Dart.  
 - 🏆 Hackathon Winner: BUET CSE Fest (DevOps), DU ITverse (CTF), MIST ICT Innovation Fest.  
-- 💻 Strong background in **backend systems**, **DevOps pipelines**, and **machine learning research**.  
-- 🌱 Actively exploring **distributed systems, scalable architecture, and applied ML**.  
+- 💻 Background in **backend engineering**, **DevOps pipelines**, and **applied research**.  
+- 🌱 Exploring **distributed systems**, **scalable architectures**, and **intelligent automation**.  
 
 ---
 
@@ -41,7 +44,7 @@ Passionate about **scalable systems**, **AI-driven solutions**, and **DevOps aut
 ![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-#### 🌐 Frameworks & Libraries  
+#### 🌐 Web Development  
 ![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
@@ -50,7 +53,19 @@ Passionate about **scalable systems**, **AI-driven solutions**, and **DevOps aut
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### 🤖 AI, Machine Learning & Computer Vision  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+#### 📱 Mobile Development  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 #### 🗄️ Databases & Storage  
 ![MySQL](https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -94,6 +109,6 @@ Passionate about **scalable systems**, **AI-driven solutions**, and **DevOps aut
 
 ---
 
-> _“Simplicity is the soul of efficiency.” – Austin Freeman
+> _“Simplicity is the soul of efficiency.” – Austin Freeman_  
+> _“Code is like humor. When you have to explain it, it’s bad.”_
 
-> _✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
