@@ -86,6 +86,9 @@ Passionate about **scalable systems**, **AI-driven solutions**, and **DevOps aut
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mirzaazwad&theme=dark&show_icons=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaazwad&theme=dark&layout=compact" alt="Top Languages" />
 </p>
 
