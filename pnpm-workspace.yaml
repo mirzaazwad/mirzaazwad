@@ -1,0 +1,5 @@
+allowBuilds:
+  lefthook: true
+  unrs-resolver: true
+minimumReleaseAgeExclude:
+  - '@types/three@0.186.0'

@@ -1,0 +1,86 @@
+{
+	"$schema": "https://biomejs.dev/schemas/2.5.13/schema.json",
+	"vcs": {
+		"enabled": false,
+		"clientKind": "git",
+		"useIgnoreFile": false
+	},
+	"files": {
+		"ignoreUnknown": false,
+		"includes": [
+			"**",
+			"!**/node_modules",
+			"!**/dist",
+			"!**/build",
+			"!**/coverage",
+			"!**/.next",
+			"!**/out",
+			"!**/*.min.js",
+			"!**/globals.css"
+		]
+	},
+	"formatter": {
+		"enabled": true,
+		"indentStyle": "tab"
+	},
+	"linter": {
+		"enabled": true,
+		"rules": {
+			"preset": "recommended",
+			"suspicious": {
+				"preset": "recommended",
+				"noExplicitAny": "error",
+				"noConsole": "warn",
+				"noArrayIndexKey": "error",
+				"noExtraNonNullAssertion": "error"
+			},
+			"complexity": {
+				"preset": "recommended",
+				"noExcessiveCognitiveComplexity": "error"
+			},
+			"correctness": {
+				"preset": "recommended",
+				"noUnusedVariables": "error",
+				"noUnusedImports": "error",
+				"useExhaustiveDependencies": "error",
+				"noUndeclaredVariables": "error"
+			},
+			"style": {
+				"preset": "recommended",
+				"noNonNullAssertion": "warn",
+				"useConst": "error",
+				"noParameterAssign": "error",
+				"useImportType": "error",
+				"useExportType": "error",
+				"noEnum": "off"
+			},
+			"nursery": {
+				"preset": "none"
+			}
+		}
+	},
+	"javascript": {
+		"formatter": {
+			"quoteStyle": "double"
+		}
+	},
+	"css": {
+		"parser": {
+			"cssModules": false
+		},
+		"linter": {
+			"enabled": false
+		},
+		"formatter": {
+			"enabled": false
+		}
+	},
+	"assist": {
+		"enabled": true,
+		"actions": {
+			"source": {
+				"organizeImports": "on"
+			}
+		}
+	}
+}
